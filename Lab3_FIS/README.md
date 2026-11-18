@@ -6,7 +6,7 @@
 <div class="page">
 
 ## Class Diagram - Centralizzato:
-![CD-c](./Class%20Diagram%20Complete%20-%20centralizzato%20.png)
+![CD-c](./Class%20Diagram%20Centralizato.jpg)
 
 ---
 
@@ -20,7 +20,7 @@
 <div class="page">
 
 ## Sequence Diagram - Centralizzato:
-![SD-c](./SQ%20centralizzato.png)
+![SD-c](./Sequence%20Diagram%20Centralizato.jpg)
 
 ---
 
@@ -34,7 +34,7 @@
 <div class="page">
 
 ## Class Diagram - Distribuito:
-![CD-d](./Class%20Diagram%20Compleate%20-%20distribuito.png)
+![CD-d](./Class%20Diagram%20Distribuito.jpg)
 ---
 
 <br>
@@ -48,7 +48,7 @@
 <div class="page">
 
 ## Sequence Diagram - Distribuito:
-![SD-d](./SQ%20Distribuito.png)
+![SD-d](./Sequence%20Diagram%20Distribuito.jpg)
 
 <br>
 </br>
@@ -57,4 +57,3 @@
 ---
 
 </div>
-
